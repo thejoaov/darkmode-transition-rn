@@ -1,2 +1,12 @@
-# darkmode-transition-rn
- Pequeno teste/estudo sobre react native animated, transições e dark mode :D / A little test/study about react native animated, transitions and dark mode :D
+<div align="center">
+
+# DarkMode App
+
+
+ 🇧🇷 Feito com amor, baseado no artigo [_Transition Animation in React Native. Use Case: Dark mode_](https://medium.com/backticks-tildes/transition-animation-in-react-native-use-case-dark-mode-f1d4fadd0fb6)
+
+ 🇺🇸 Made with heart, based on the article [_Transition Animation in React Native. Use Case: Dark mode_](https://medium.com/backticks-tildes/transition-animation-in-react-native-use-case-dark-mode-f1d4fadd0fb6)
+
+</div>
+
+<img src="https://i.imgur.com/2A2HT67.gif">
